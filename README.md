@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **judicaelguillaume@outlook.fr**
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/judicael-guillaume/](https://www.linkedin.com/in/judicael-guillaume/)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/judicael-guillaume/](https://www.linkedin.com/in/judicael-guillaume/)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
